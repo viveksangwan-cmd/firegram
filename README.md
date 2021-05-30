@@ -1,3 +1,30 @@
+## Firebase---Photo_Gallery
+Small react project for photo collection
+
+# Technologies Used
+
+React.js
+
+Firebase
+
+framer-motion (For motion styling while image rendering)
+
+ 
+# To Run Project
+
+Clone the repository in your local system.
+
+Open local folder in termial 
+or
+open project in VSCode and then open terminal.
+
+Go inside firegram folder and run  `npm install` command
+
+After successful installation
+
+Run `npm start` , It will open on your local default browser  at 8080 local port
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
